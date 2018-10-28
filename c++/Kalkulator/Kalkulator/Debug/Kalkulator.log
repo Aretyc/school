@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\szymon\source\repos\kalkulator\kalkulator\myform.h(25): warning C4677: „kalku”: Sygnatura nieprywatnej składowej zawiera prywatny typ zestawu „Kalk”
+  c:\users\szymon\source\repos\kalkulator\kalkulator\kalk.h(6): note: zobacz deklarację „Kalk”
+c:\users\szymon\source\repos\kalkulator\kalkulator\myform.cpp(10): warning C4829: Możliwe niepoprawne parametry funkcji main. Rozważ użycie "int main(Platform::Array<Platform::String^>^ argv)"
+  Kalk.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Kalkulator.vcxproj -> C:\Users\szymon\source\repos\Kalkulator\Debug\Kalkulator.exe
