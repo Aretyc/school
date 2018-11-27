@@ -1,0 +1,11 @@
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\bin\Debug\państwa-baza-danych.mdb
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\bin\Debug\malski_baza.exe.config
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\bin\Debug\malski_baza.exe
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\bin\Debug\malski_baza.pdb
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.csprojAssemblyReference.cache
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.Form1.resources
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.Properties.Resources.resources
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.csproj.GenerateResource.cache
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.csproj.CoreCompileInputs.cache
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.exe
+C:\Users\szymon\Documents\GitHub\school\malski_baza\malski_baza\obj\Debug\malski_baza.pdb
